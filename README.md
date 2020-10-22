@@ -14,3 +14,5 @@ Create a Trivial game for kids with Javascript
 ### Resources
 38:56 og 45:05
 - [Trivial Javascript](https://www.youtube.com/watch?v=anRB8u_D_YA&feature=emb_logo)
+- [Example](https://www.thelearningapps.com/animal-quiz-01/)
+- [animal illustrations](https://nature.desktopnexus.com/cat/bugs/)
